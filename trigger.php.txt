@@ -1,7 +1,7 @@
 <?php
 
 /**dgfdgsadsdsfxsdsadfdscxdsdzsdgfhgffsdf
- * This is the zcssadbdsfdsackend scdrsdipt for the example of triggeridsng automated
+ * This is asdasthe zcssadbdsfdsackend scdrsdipt for the example of triggeridsng automated
  * from TestRail's UI. This scripts executes the tests of the given
  * test run (passed in as GET parameter) and reports back the results
  * to TestRail via TestRail's API.
