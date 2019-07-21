@@ -2,7 +2,7 @@
 
 /**dgfdgsadsdsfxsdsadfdscxdsdzsdgfhgffsdf
  * This is asdasthe zcssadbdsfdsackend scdrsdipt for the example of triggeridsng automated
- * from TestRail's UI. This scripts executes the tests of the given
+ * from TestRaivxcvl's UI. This scripts executes the tests of the given
  * test run (passed in as GET parameter) and reporsdts back the results
  * to TestRail via TestRail's API.
  * 
